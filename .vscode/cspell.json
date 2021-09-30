@@ -2,7 +2,7 @@
   "version": "0.1",
   "language": "en_US",
   "languageId": "csharp",
-  "dictionaries": ["powershell", "softwareTerms", "csharp"],
+  "dictionaries": ["powershell", "softwareTerms", "csharp","typescript"],
   "ignorePaths": [
     "**/SessionRecords/**",
     "**/packages/**",
